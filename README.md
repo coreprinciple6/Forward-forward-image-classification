@@ -9,6 +9,8 @@
 📌 Paper Reference: Hinton, Geoffrey. "The forward-forward algorithm: Some preliminary investigations." *arXiv preprint arXiv:2212.13345*
  (2022).
 
+📌 Download the model weights at : https://drive.google.com/drive/folders/1X__0cUcL5BGJNnFs1e-mGsgE7hz9YHxc?usp=sharing
+📌 Refer to the final report in the doc folder for final results and new approach
 ### Problem statement
 ---
 
